@@ -1,0 +1,237 @@
+formatVersion=1
+test=PL-08_LIVE_CURRENT_BAR_PREVIEW_LEDGER_LIFECYCLE
+status=RUNNING
+symbol=XAUUSD
+timeframe=PERIOD_H1
+sourceMode=LIVE_COPYRATES_CAPTURE_ONCE_CLOSED_HISTORY_FIXED
+frozenSnapshotUsed=0
+newSnapshotFileWritten=0
+closedHistoryBars=11999
+closedHistoryFirstTime=2024.11.11 09:00:00
+closedHistoryLastTime=2026.11.20 22:00:00
+closedHistoryHash=3056527737-514312789
+previewBarTime=2026.11.20 23:00:00
+previewBarOpen=3525.85
+settingsHash=1664228054-3544671926
+inputProfile=maxDegrees:4;maxValidationDepth:3;maxSubTests:3000;MFD:5,8,13/2,3,5;mergeTolerance:0
+baselineAnalyzeOK=1
+baselineLedgerCount=2482
+baselineConfirmedCount=2482
+baselineLedgerRevision=2485
+minPreviewSamples=3
+maxPreviewSamples=3
+pollSeconds=4
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2483|extremeTime=2024.12.10 19:00:00|side=HIGH|price=2695.57|confirmed=1|confirmedTime=2024.12.10 21:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2484|extremeTime=2024.12.10 22:00:00|side=LOW|price=2690.93|confirmed=1|confirmedTime=2024.12.11 01:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2485|extremeTime=2024.12.11 08:00:00|side=HIGH|price=2698.10|confirmed=1|confirmedTime=2024.12.11 10:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2486|extremeTime=2024.12.11 11:00:00|side=LOW|price=2686.45|confirmed=1|confirmedTime=2024.12.11 13:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2487|extremeTime=2024.12.11 12:00:00|side=HIGH|price=2699.86|confirmed=1|confirmedTime=2024.12.11 14:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2488|extremeTime=2024.12.11 15:00:00|side=LOW|price=2690.56|confirmed=1|confirmedTime=2024.12.11 17:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2489|extremeTime=2024.12.11 20:00:00|side=HIGH|price=2721.12|confirmed=1|confirmedTime=2024.12.11 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2490|extremeTime=2024.12.11 21:00:00|side=LOW|price=2713.28|confirmed=1|confirmedTime=2024.12.11 23:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2491|extremeTime=2024.12.12 20:00:00|side=HIGH|price=2687.04|confirmed=1|confirmedTime=2024.12.12 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2492|extremeTime=2024.12.13 02:00:00|side=LOW|price=2678.92|confirmed=1|confirmedTime=2024.12.13 04:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2493|extremeTime=2024.12.13 17:00:00|side=LOW|price=2654.70|confirmed=1|confirmedTime=2024.12.13 19:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2494|extremeTime=2024.12.13 18:00:00|side=HIGH|price=2664.54|confirmed=1|confirmedTime=2024.12.13 20:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2495|extremeTime=2024.12.16 03:00:00|side=HIGH|price=2655.64|confirmed=1|confirmedTime=2024.12.16 05:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2496|extremeTime=2024.12.16 07:00:00|side=LOW|price=2649.51|confirmed=1|confirmedTime=2024.12.16 09:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2497|extremeTime=2024.12.26 19:00:00|side=LOW|price=2628.00|confirmed=1|confirmedTime=2024.12.26 21:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2498|extremeTime=2024.12.26 22:00:00|side=HIGH|price=2636.27|confirmed=1|confirmedTime=2024.12.27 01:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2499|extremeTime=2024.12.27 12:00:00|side=LOW|price=2623.50|confirmed=1|confirmedTime=2024.12.27 14:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2500|extremeTime=2024.12.27 14:00:00|side=HIGH|price=2631.63|confirmed=1|confirmedTime=2024.12.27 16:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2501|extremeTime=2024.12.27 21:00:00|side=HIGH|price=2621.35|confirmed=1|confirmedTime=2024.12.27 23:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2502|extremeTime=2024.12.27 22:00:00|side=LOW|price=2612.76|confirmed=1|confirmedTime=2024.12.30 01:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2503|extremeTime=2024.12.30 10:00:00|side=LOW|price=2609.38|confirmed=1|confirmedTime=2024.12.30 12:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2504|extremeTime=2024.12.30 15:00:00|side=HIGH|price=2622.54|confirmed=1|confirmedTime=2024.12.30 17:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2505|extremeTime=2024.12.30 22:00:00|side=HIGH|price=2609.55|confirmed=1|confirmedTime=2024.12.31 01:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2506|extremeTime=2024.12.31 01:00:00|side=LOW|price=2603.85|confirmed=1|confirmedTime=2024.12.31 03:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2507|extremeTime=2025.01.03 04:00:00|side=LOW|price=2656.27|confirmed=1|confirmedTime=2025.01.03 06:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2508|extremeTime=2025.01.03 10:00:00|side=LOW|price=2649.85|confirmed=1|confirmedTime=2025.01.03 12:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2509|extremeTime=2025.01.03 13:00:00|side=HIGH|price=2659.28|confirmed=1|confirmedTime=2025.01.03 15:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2510|extremeTime=2025.01.03 18:00:00|side=LOW|price=2639.06|confirmed=1|confirmedTime=2025.01.03 20:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2511|extremeTime=2025.01.03 21:00:00|side=HIGH|price=2642.98|confirmed=1|confirmedTime=2025.01.03 23:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2512|extremeTime=2025.01.09 20:00:00|side=HIGH|price=2672.52|confirmed=1|confirmedTime=2025.01.09 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2513|extremeTime=2025.01.10 01:00:00|side=LOW|price=2668.47|confirmed=1|confirmedTime=2025.01.10 03:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2514|extremeTime=2025.01.10 04:00:00|side=HIGH|price=2674.75|confirmed=1|confirmedTime=2025.01.10 06:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2515|extremeTime=2025.01.10 15:00:00|side=LOW|price=2664.07|confirmed=1|confirmedTime=2025.01.10 17:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2516|extremeTime=2025.01.10 21:00:00|side=LOW|price=2684.56|confirmed=1|confirmedTime=2025.01.10 23:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2517|extremeTime=2025.01.10 23:00:00|side=HIGH|price=2693.38|confirmed=1|confirmedTime=2025.01.13 02:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2518|extremeTime=2025.01.14 18:00:00|side=HIGH|price=2674.01|confirmed=1|confirmedTime=2025.01.14 20:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2519|extremeTime=2025.01.14 20:00:00|side=LOW|price=2666.75|confirmed=1|confirmedTime=2025.01.14 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2520|extremeTime=2025.01.24 18:00:00|side=LOW|price=2769.87|confirmed=1|confirmedTime=2025.01.24 20:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2521|extremeTime=2025.01.27 03:00:00|side=HIGH|price=2772.55|confirmed=1|confirmedTime=2025.01.27 05:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2522|extremeTime=2025.01.28 05:00:00|side=LOW|price=2737.85|confirmed=1|confirmedTime=2025.01.28 07:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2523|extremeTime=2025.01.28 07:00:00|side=HIGH|price=2744.88|confirmed=1|confirmedTime=2025.01.28 09:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2524|extremeTime=2025.01.28 22:00:00|side=HIGH|price=2764.99|confirmed=1|confirmedTime=2025.01.29 01:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2525|extremeTime=2025.01.29 02:00:00|side=LOW|price=2762.27|confirmed=1|confirmedTime=2025.01.29 04:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2526|extremeTime=2025.01.29 09:00:00|side=LOW|price=2757.41|confirmed=1|confirmedTime=2025.01.29 11:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2527|extremeTime=2025.01.29 10:00:00|side=HIGH|price=2766.15|confirmed=1|confirmedTime=2025.01.29 12:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2528|extremeTime=2025.01.30 02:00:00|side=HIGH|price=2762.55|confirmed=1|confirmedTime=2025.01.30 04:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2529|extremeTime=2025.01.30 07:00:00|side=LOW|price=2758.74|confirmed=1|confirmedTime=2025.01.30 09:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2530|extremeTime=2025.01.31 09:00:00|side=HIGH|price=2800.92|confirmed=1|confirmedTime=2025.01.31 11:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2531|extremeTime=2025.02.11 08:00:00|side=HIGH|price=2929.49|confirmed=1|confirmedTime=2025.02.11 10:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2532|extremeTime=2025.02.11 22:00:00|side=LOW|price=2894.08|confirmed=1|confirmedTime=2025.02.12 01:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2533|extremeTime=2025.02.12 01:00:00|side=HIGH|price=2900.74|confirmed=1|confirmedTime=2025.02.12 03:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2534|extremeTime=2025.02.12 03:00:00|side=LOW|price=2883.69|confirmed=1|confirmedTime=2025.02.12 05:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2535|extremeTime=2025.02.12 09:00:00|side=HIGH|price=2895.79|confirmed=1|confirmedTime=2025.02.12 11:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2536|extremeTime=2025.02.12 19:00:00|side=HIGH|price=2909.20|confirmed=1|confirmedTime=2025.02.12 21:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2537|extremeTime=2025.02.12 21:00:00|side=LOW|price=2893.59|confirmed=1|confirmedTime=2025.02.12 23:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2538|extremeTime=2025.02.13 10:00:00|side=LOW|price=2909.40|confirmed=1|confirmedTime=2025.02.13 12:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2539|extremeTime=2025.02.13 14:00:00|side=HIGH|price=2921.36|confirmed=1|confirmedTime=2025.02.13 16:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2540|extremeTime=2025.02.14 03:00:00|side=HIGH|price=2933.80|confirmed=1|confirmedTime=2025.02.14 05:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2541|extremeTime=2025.02.14 05:00:00|side=LOW|price=2923.33|confirmed=1|confirmedTime=2025.02.14 07:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2542|extremeTime=2025.02.17 07:00:00|side=HIGH|price=2905.26|confirmed=1|confirmedTime=2025.02.17 09:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2543|extremeTime=2025.02.17 08:00:00|side=LOW|price=2888.29|confirmed=1|confirmedTime=2025.02.17 10:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2544|extremeTime=2025.02.17 14:00:00|side=LOW|price=2895.47|confirmed=1|confirmedTime=2025.02.17 16:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2545|extremeTime=2025.02.17 17:00:00|side=HIGH|price=2904.13|confirmed=1|confirmedTime=2025.02.17 19:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2546|extremeTime=2025.07.22 20:00:00|side=HIGH|price=3433.44|confirmed=1|confirmedTime=2025.07.22 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2547|extremeTime=2025.09.08 04:00:00|side=HIGH|price=3597.32|confirmed=1|confirmedTime=2025.09.08 06:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2548|extremeTime=2025.10.24 11:00:00|side=LOW|price=4047.55|confirmed=1|confirmedTime=2025.10.24 13:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2549|extremeTime=2025.11.10 20:00:00|side=HIGH|price=4115.80|confirmed=1|confirmedTime=2025.11.10 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2550|extremeTime=2025.11.10 03:00:00|side=HIGH|price=4053.23|confirmed=1|confirmedTime=2025.11.10 05:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2551|extremeTime=2025.11.26 10:00:00|side=HIGH|price=4168.57|confirmed=1|confirmedTime=2025.11.26 12:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2552|extremeTime=2025.12.05 18:00:00|side=LOW|price=4198.70|confirmed=1|confirmedTime=2025.12.05 20:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2553|extremeTime=2026.03.25 18:00:00|side=LOW|price=4525.04|confirmed=1|confirmedTime=2026.03.25 20:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2554|extremeTime=2026.03.30 09:00:00|side=HIGH|price=4550.70|confirmed=1|confirmedTime=2026.03.30 11:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2555|extremeTime=2026.04.13 20:00:00|side=HIGH|price=4750.02|confirmed=1|confirmedTime=2026.04.13 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2556|extremeTime=2026.04.15 01:00:00|side=HIGH|price=4850.64|confirmed=1|confirmedTime=2026.04.15 03:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2557|extremeTime=2026.04.28 05:00:00|side=LOW|price=4666.56|confirmed=1|confirmedTime=2026.04.28 07:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2558|extremeTime=2026.05.15 04:00:00|side=LOW|price=4607.43|confirmed=1|confirmedTime=2026.05.15 06:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2559|extremeTime=2026.06.03 16:00:00|side=LOW|price=4426.48|confirmed=1|confirmedTime=2026.06.03 18:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2560|extremeTime=2026.06.18 22:00:00|side=LOW|price=4201.47|confirmed=1|confirmedTime=2026.06.19 01:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2561|extremeTime=2026.07.20 11:00:00|side=HIGH|price=4030.75|confirmed=1|confirmedTime=2026.07.20 13:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2562|extremeTime=2026.08.04 16:00:00|side=HIGH|price=4093.89|confirmed=1|confirmedTime=2026.08.04 18:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2563|extremeTime=2026.08.18 18:00:00|side=LOW|price=4351.63|confirmed=1|confirmedTime=2026.08.18 20:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2564|extremeTime=2025.06.09 13:00:00|side=LOW|price=3312.19|confirmed=1|confirmedTime=2025.06.09 15:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2565|extremeTime=2025.06.23 04:00:00|side=LOW|price=3352.03|confirmed=1|confirmedTime=2025.06.23 06:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2566|extremeTime=2025.07.07 10:00:00|side=LOW|price=3300.71|confirmed=1|confirmedTime=2025.07.07 12:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2567|extremeTime=2025.07.22 04:00:00|side=LOW|price=3385.12|confirmed=1|confirmedTime=2025.07.22 06:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2568|extremeTime=2025.07.23 05:00:00|side=LOW|price=3419.17|confirmed=1|confirmedTime=2025.07.23 07:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2569|extremeTime=2025.07.28 11:00:00|side=LOW|price=3332.42|confirmed=1|confirmedTime=2025.07.28 13:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2570|extremeTime=2025.07.31 19:00:00|side=LOW|price=3289.74|confirmed=1|confirmedTime=2025.07.31 21:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2571|extremeTime=2025.08.06 23:00:00|side=LOW|price=3367.21|confirmed=1|confirmedTime=2025.08.07 02:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2572|extremeTime=2025.08.14 11:00:00|side=LOW|price=3341.50|confirmed=1|confirmedTime=2025.08.14 13:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2573|extremeTime=2025.08.19 20:00:00|side=LOW|price=3314.98|confirmed=1|confirmedTime=2025.08.19 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2574|extremeTime=2025.05.27 10:00:00|side=LOW|price=3292.62|confirmed=1|confirmedTime=2025.05.27 12:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2575|extremeTime=2025.06.06 17:00:00|side=LOW|price=3316.43|confirmed=1|confirmedTime=2025.06.06 19:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2576|extremeTime=2025.06.23 20:00:00|side=LOW|price=3375.65|confirmed=1|confirmedTime=2025.06.23 22:00:00
+PL08_PREVIEW_ADDED|firstSample=1|pivotId=2577|extremeTime=2025.07.24 20:00:00|side=LOW|price=3366.32|confirmed=1|confirmedTime=2025.07.24 22:00:00
+PL08_SAMPLE|sample=1|poll=0|capturedAt=2026.11.21 18:51:37|previewBarTime=2026.11.20 23:00:00|open=3525.85|high=3535.27|low=3513.84|close=3534.75|previewOK=1|ledgerBefore=2482|ledgerAfter=2577|revisionBefore=2485|revisionAfter=2580|added=95|addedConfirmed=95|addedUnconfirmed=0|removed=0|changedExisting=0|baselineConfirmedChecked=2482|baselineConfirmedMissing=0|baselineConfirmedChanged=0
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2483|extremeTime=2024.12.10 19:00:00|side=HIGH|price=2695.57|confirmed=1|confirmedTime=2024.12.10 21:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2484|extremeTime=2024.12.10 22:00:00|side=LOW|price=2690.93|confirmed=1|confirmedTime=2024.12.11 01:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2485|extremeTime=2024.12.11 08:00:00|side=HIGH|price=2698.10|confirmed=1|confirmedTime=2024.12.11 10:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2486|extremeTime=2024.12.11 11:00:00|side=LOW|price=2686.45|confirmed=1|confirmedTime=2024.12.11 13:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2487|extremeTime=2024.12.11 12:00:00|side=HIGH|price=2699.86|confirmed=1|confirmedTime=2024.12.11 14:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2488|extremeTime=2024.12.11 15:00:00|side=LOW|price=2690.56|confirmed=1|confirmedTime=2024.12.11 17:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2489|extremeTime=2024.12.11 20:00:00|side=HIGH|price=2721.12|confirmed=1|confirmedTime=2024.12.11 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2490|extremeTime=2024.12.11 21:00:00|side=LOW|price=2713.28|confirmed=1|confirmedTime=2024.12.11 23:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2491|extremeTime=2024.12.12 20:00:00|side=HIGH|price=2687.04|confirmed=1|confirmedTime=2024.12.12 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2492|extremeTime=2024.12.13 02:00:00|side=LOW|price=2678.92|confirmed=1|confirmedTime=2024.12.13 04:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2493|extremeTime=2024.12.13 17:00:00|side=LOW|price=2654.70|confirmed=1|confirmedTime=2024.12.13 19:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2494|extremeTime=2024.12.13 18:00:00|side=HIGH|price=2664.54|confirmed=1|confirmedTime=2024.12.13 20:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2495|extremeTime=2024.12.16 03:00:00|side=HIGH|price=2655.64|confirmed=1|confirmedTime=2024.12.16 05:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2496|extremeTime=2024.12.16 07:00:00|side=LOW|price=2649.51|confirmed=1|confirmedTime=2024.12.16 09:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2497|extremeTime=2024.12.26 19:00:00|side=LOW|price=2628.00|confirmed=1|confirmedTime=2024.12.26 21:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2498|extremeTime=2024.12.26 22:00:00|side=HIGH|price=2636.27|confirmed=1|confirmedTime=2024.12.27 01:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2499|extremeTime=2024.12.27 12:00:00|side=LOW|price=2623.50|confirmed=1|confirmedTime=2024.12.27 14:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2500|extremeTime=2024.12.27 14:00:00|side=HIGH|price=2631.63|confirmed=1|confirmedTime=2024.12.27 16:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2501|extremeTime=2024.12.27 21:00:00|side=HIGH|price=2621.35|confirmed=1|confirmedTime=2024.12.27 23:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2502|extremeTime=2024.12.27 22:00:00|side=LOW|price=2612.76|confirmed=1|confirmedTime=2024.12.30 01:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2503|extremeTime=2024.12.30 10:00:00|side=LOW|price=2609.38|confirmed=1|confirmedTime=2024.12.30 12:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2504|extremeTime=2024.12.30 15:00:00|side=HIGH|price=2622.54|confirmed=1|confirmedTime=2024.12.30 17:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2505|extremeTime=2024.12.30 22:00:00|side=HIGH|price=2609.55|confirmed=1|confirmedTime=2024.12.31 01:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2506|extremeTime=2024.12.31 01:00:00|side=LOW|price=2603.85|confirmed=1|confirmedTime=2024.12.31 03:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2507|extremeTime=2025.01.03 04:00:00|side=LOW|price=2656.27|confirmed=1|confirmedTime=2025.01.03 06:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2508|extremeTime=2025.01.03 10:00:00|side=LOW|price=2649.85|confirmed=1|confirmedTime=2025.01.03 12:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2509|extremeTime=2025.01.03 13:00:00|side=HIGH|price=2659.28|confirmed=1|confirmedTime=2025.01.03 15:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2510|extremeTime=2025.01.03 18:00:00|side=LOW|price=2639.06|confirmed=1|confirmedTime=2025.01.03 20:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2511|extremeTime=2025.01.03 21:00:00|side=HIGH|price=2642.98|confirmed=1|confirmedTime=2025.01.03 23:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2512|extremeTime=2025.01.09 20:00:00|side=HIGH|price=2672.52|confirmed=1|confirmedTime=2025.01.09 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2513|extremeTime=2025.01.10 01:00:00|side=LOW|price=2668.47|confirmed=1|confirmedTime=2025.01.10 03:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2514|extremeTime=2025.01.10 04:00:00|side=HIGH|price=2674.75|confirmed=1|confirmedTime=2025.01.10 06:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2515|extremeTime=2025.01.10 15:00:00|side=LOW|price=2664.07|confirmed=1|confirmedTime=2025.01.10 17:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2516|extremeTime=2025.01.10 21:00:00|side=LOW|price=2684.56|confirmed=1|confirmedTime=2025.01.10 23:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2517|extremeTime=2025.01.10 23:00:00|side=HIGH|price=2693.38|confirmed=1|confirmedTime=2025.01.13 02:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2518|extremeTime=2025.01.14 18:00:00|side=HIGH|price=2674.01|confirmed=1|confirmedTime=2025.01.14 20:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2519|extremeTime=2025.01.14 20:00:00|side=LOW|price=2666.75|confirmed=1|confirmedTime=2025.01.14 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2520|extremeTime=2025.01.24 18:00:00|side=LOW|price=2769.87|confirmed=1|confirmedTime=2025.01.24 20:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2521|extremeTime=2025.01.27 03:00:00|side=HIGH|price=2772.55|confirmed=1|confirmedTime=2025.01.27 05:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2522|extremeTime=2025.01.28 05:00:00|side=LOW|price=2737.85|confirmed=1|confirmedTime=2025.01.28 07:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2523|extremeTime=2025.01.28 07:00:00|side=HIGH|price=2744.88|confirmed=1|confirmedTime=2025.01.28 09:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2524|extremeTime=2025.01.28 22:00:00|side=HIGH|price=2764.99|confirmed=1|confirmedTime=2025.01.29 01:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2525|extremeTime=2025.01.29 02:00:00|side=LOW|price=2762.27|confirmed=1|confirmedTime=2025.01.29 04:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2526|extremeTime=2025.01.29 09:00:00|side=LOW|price=2757.41|confirmed=1|confirmedTime=2025.01.29 11:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2527|extremeTime=2025.01.29 10:00:00|side=HIGH|price=2766.15|confirmed=1|confirmedTime=2025.01.29 12:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2528|extremeTime=2025.01.30 02:00:00|side=HIGH|price=2762.55|confirmed=1|confirmedTime=2025.01.30 04:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2529|extremeTime=2025.01.30 07:00:00|side=LOW|price=2758.74|confirmed=1|confirmedTime=2025.01.30 09:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2530|extremeTime=2025.01.31 09:00:00|side=HIGH|price=2800.92|confirmed=1|confirmedTime=2025.01.31 11:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2531|extremeTime=2025.02.11 08:00:00|side=HIGH|price=2929.49|confirmed=1|confirmedTime=2025.02.11 10:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2532|extremeTime=2025.02.11 22:00:00|side=LOW|price=2894.08|confirmed=1|confirmedTime=2025.02.12 01:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2533|extremeTime=2025.02.12 01:00:00|side=HIGH|price=2900.74|confirmed=1|confirmedTime=2025.02.12 03:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2534|extremeTime=2025.02.12 03:00:00|side=LOW|price=2883.69|confirmed=1|confirmedTime=2025.02.12 05:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2535|extremeTime=2025.02.12 09:00:00|side=HIGH|price=2895.79|confirmed=1|confirmedTime=2025.02.12 11:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2536|extremeTime=2025.02.12 19:00:00|side=HIGH|price=2909.20|confirmed=1|confirmedTime=2025.02.12 21:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2537|extremeTime=2025.02.12 21:00:00|side=LOW|price=2893.59|confirmed=1|confirmedTime=2025.02.12 23:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2538|extremeTime=2025.02.13 10:00:00|side=LOW|price=2909.40|confirmed=1|confirmedTime=2025.02.13 12:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2539|extremeTime=2025.02.13 14:00:00|side=HIGH|price=2921.36|confirmed=1|confirmedTime=2025.02.13 16:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2540|extremeTime=2025.02.14 03:00:00|side=HIGH|price=2933.80|confirmed=1|confirmedTime=2025.02.14 05:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2541|extremeTime=2025.02.14 05:00:00|side=LOW|price=2923.33|confirmed=1|confirmedTime=2025.02.14 07:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2542|extremeTime=2025.02.17 07:00:00|side=HIGH|price=2905.26|confirmed=1|confirmedTime=2025.02.17 09:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2543|extremeTime=2025.02.17 08:00:00|side=LOW|price=2888.29|confirmed=1|confirmedTime=2025.02.17 10:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2544|extremeTime=2025.02.17 14:00:00|side=LOW|price=2895.47|confirmed=1|confirmedTime=2025.02.17 16:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2545|extremeTime=2025.02.17 17:00:00|side=HIGH|price=2904.13|confirmed=1|confirmedTime=2025.02.17 19:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2546|extremeTime=2025.07.22 20:00:00|side=HIGH|price=3433.44|confirmed=1|confirmedTime=2025.07.22 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2547|extremeTime=2025.09.08 04:00:00|side=HIGH|price=3597.32|confirmed=1|confirmedTime=2025.09.08 06:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2548|extremeTime=2025.10.24 11:00:00|side=LOW|price=4047.55|confirmed=1|confirmedTime=2025.10.24 13:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2549|extremeTime=2025.11.10 20:00:00|side=HIGH|price=4115.80|confirmed=1|confirmedTime=2025.11.10 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2550|extremeTime=2025.11.10 03:00:00|side=HIGH|price=4053.23|confirmed=1|confirmedTime=2025.11.10 05:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2551|extremeTime=2025.11.26 10:00:00|side=HIGH|price=4168.57|confirmed=1|confirmedTime=2025.11.26 12:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2552|extremeTime=2025.12.05 18:00:00|side=LOW|price=4198.70|confirmed=1|confirmedTime=2025.12.05 20:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2553|extremeTime=2026.03.25 18:00:00|side=LOW|price=4525.04|confirmed=1|confirmedTime=2026.03.25 20:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2554|extremeTime=2026.03.30 09:00:00|side=HIGH|price=4550.70|confirmed=1|confirmedTime=2026.03.30 11:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2555|extremeTime=2026.04.13 20:00:00|side=HIGH|price=4750.02|confirmed=1|confirmedTime=2026.04.13 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2556|extremeTime=2026.04.15 01:00:00|side=HIGH|price=4850.64|confirmed=1|confirmedTime=2026.04.15 03:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2557|extremeTime=2026.04.28 05:00:00|side=LOW|price=4666.56|confirmed=1|confirmedTime=2026.04.28 07:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2558|extremeTime=2026.05.15 04:00:00|side=LOW|price=4607.43|confirmed=1|confirmedTime=2026.05.15 06:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2559|extremeTime=2026.06.03 16:00:00|side=LOW|price=4426.48|confirmed=1|confirmedTime=2026.06.03 18:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2560|extremeTime=2026.06.18 22:00:00|side=LOW|price=4201.47|confirmed=1|confirmedTime=2026.06.19 01:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2561|extremeTime=2026.07.20 11:00:00|side=HIGH|price=4030.75|confirmed=1|confirmedTime=2026.07.20 13:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2562|extremeTime=2026.08.04 16:00:00|side=HIGH|price=4093.89|confirmed=1|confirmedTime=2026.08.04 18:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2563|extremeTime=2026.08.18 18:00:00|side=LOW|price=4351.63|confirmed=1|confirmedTime=2026.08.18 20:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2564|extremeTime=2025.06.09 13:00:00|side=LOW|price=3312.19|confirmed=1|confirmedTime=2025.06.09 15:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2565|extremeTime=2025.06.23 04:00:00|side=LOW|price=3352.03|confirmed=1|confirmedTime=2025.06.23 06:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2566|extremeTime=2025.07.07 10:00:00|side=LOW|price=3300.71|confirmed=1|confirmedTime=2025.07.07 12:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2567|extremeTime=2025.07.22 04:00:00|side=LOW|price=3385.12|confirmed=1|confirmedTime=2025.07.22 06:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2568|extremeTime=2025.07.23 05:00:00|side=LOW|price=3419.17|confirmed=1|confirmedTime=2025.07.23 07:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2569|extremeTime=2025.07.28 11:00:00|side=LOW|price=3332.42|confirmed=1|confirmedTime=2025.07.28 13:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2570|extremeTime=2025.07.31 19:00:00|side=LOW|price=3289.74|confirmed=1|confirmedTime=2025.07.31 21:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2571|extremeTime=2025.08.06 23:00:00|side=LOW|price=3367.21|confirmed=1|confirmedTime=2025.08.07 02:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2572|extremeTime=2025.08.14 11:00:00|side=LOW|price=3341.50|confirmed=1|confirmedTime=2025.08.14 13:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2573|extremeTime=2025.08.19 20:00:00|side=LOW|price=3314.98|confirmed=1|confirmedTime=2025.08.19 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2574|extremeTime=2025.05.27 10:00:00|side=LOW|price=3292.62|confirmed=1|confirmedTime=2025.05.27 12:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2575|extremeTime=2025.06.06 17:00:00|side=LOW|price=3316.43|confirmed=1|confirmedTime=2025.06.06 19:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2576|extremeTime=2025.06.23 20:00:00|side=LOW|price=3375.65|confirmed=1|confirmedTime=2025.06.23 22:00:00
+PL08_AFTER_CLOSED_ONLY|firstSample=1|pivotId=2577|extremeTime=2025.07.24 20:00:00|side=LOW|price=3366.32|confirmed=1|confirmedTime=2025.07.24 22:00:00
+PL08_FINAL|previewSamples=1|polls=25|unchangedPolls=25|previewOriginKeys=95|retainedAfterClosedOnly=95|retiredAfterClosedOnly=0|stillNative=95|notFinalNative=0|confirmedRetained=95|unconfirmedRetained=0|confirmedNotNative=0|unconfirmedNotNative=0|finalLedgerCount=2583|finalLedgerRevision=2586|nativeStructuralRows=168739|nativeUniquePhysicalKeys=2614|nativeReadFailures=0|finalBaselineConfirmedChecked=2482|finalBaselineConfirmedMissing=0|finalBaselineConfirmedChanged=0
+status=INSUFFICIENT_LIVE_SAMPLES
+previewSamples=1
+pollAttempts=25
+currentBarRolledBeforeMaxSamples=0
+closedHistoryUnchanged=1
+currentBarOpenStable=1
+baselineConfirmedStable=1
+baselineConfirmedMissingAcrossPreviewPasses=0
+baselineConfirmedChangedAcrossPreviewPasses=0
+previewOriginKeys=95
+previewOriginRetainedAfterClosedOnly=95
+previewOriginRetiredAfterClosedOnly=0
+previewOriginNotInFinalNative=0
+previewConfirmedNotNative=0
+detailAttempts=190
+detailWritten=190
+detailDropped=0
+traceComplete=1
+traceCompleteSemantics=all preview-origin details and final Native readback captured; not Ledger correctness acceptance
+interpretation=measurement_only_no_automatic_policy_decision
+productionSourceModified=0
+frozenSnapshotRESTORE_FLAG_20261117=preserved_but_not_used_for_live_preview_sampling
